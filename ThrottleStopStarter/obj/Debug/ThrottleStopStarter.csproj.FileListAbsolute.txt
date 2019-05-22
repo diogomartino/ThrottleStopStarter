@@ -1,0 +1,7 @@
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\bin\Debug\ThrottleStopStarter.exe.config
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\bin\Debug\ThrottleStopStarter.exe
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\bin\Debug\ThrottleStopStarter.pdb
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\obj\Debug\ThrottleStopStarter.csproj.CoreCompileInputs.cache
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\obj\Debug\ThrottleStopStarter.exe
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\obj\Debug\ThrottleStopStarter.pdb
+C:\Users\Martino\source\repos\ThrottleStopStarter\ThrottleStopStarter\obj\Debug\ThrottleStopStarter.csprojAssemblyReference.cache
