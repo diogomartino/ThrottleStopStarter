@@ -1,10 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Text;
+using System.IO;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace ThrottleStopStarter
 {
@@ -12,8 +9,9 @@ namespace ThrottleStopStarter
     {
         static void Main(string[] args)
         {
+            string path = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments), "ThrottleStop\\ThrottleStop.exe");
             Thread.Sleep(2000);
-            Process.Start(@"C:\Users\Martino\Documents\ThrottleStop\ThrottleStop.exe");
+            Process.Start(path);
             Environment.Exit(-1);
         }
     }
